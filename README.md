@@ -1,6 +1,6 @@
 # 2048 Game
 
-![2048 Game](favicon.ico)
+![2048 Game](2048\favicon.ico)
 
 Welcome to the 2048 Game project! This is a web-based implementation of the popular 2048 puzzle game, where the goal is to combine tiles with the same number to reach the 2048 tile.
 
